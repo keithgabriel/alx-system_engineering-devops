@@ -49,6 +49,7 @@ Duration: The outage occurred on July 20, 2024, from 10:30 to 12:00 GMT (1 hour 
 
 ## **Impact**: 
 The checkout service on our e-commerce platform was down, preventing customers from completing their purchases. Approximately 60% of active users were affected during this period, leading to lost sales and customer frustration.
+![22](https://github.com/user-attachments/assets/f8f9592f-2ee4-425b-93e0-03357016b944)
 
 ## **Root Cause**: 
 The root cause of the outage was a bug in the payment gateway integration. A recent update introduced a conflict between the checkout service and the payment gateway, causing transactions to fail.
